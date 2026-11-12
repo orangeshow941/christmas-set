@@ -1,0 +1,14 @@
+jok={1,6,4,6}
+print(jok)
+jok={1,"mery christmas yes i know christmas is 43 days untill christmas", (1,6,4,6)}
+print(jok)
+jok={1,4,2,3,5,3,3,3,32,3}
+print(jok)
+jok= set([1,6,5,3])
+print(jok,"\n")
+jko=set([0,9,8,7])
+print("origina set:")
+print(jko)
+jko.pop()
+print("after removering jfdsjfddzjkhfhdfkdjzfkdsdsjkzdfskdhdjjddfhkdfhjfdhkfdjkdfjhksdhdjjjdkjd for the set it said blub:")
+print(jko,"\n")
